@@ -1,0 +1,23 @@
+{
+  "name": "comp308-w2018-lesson1",
+  "version": "1.0.0",
+  "description": "Test Description",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akashdeep073/Comp308-W2018-Lesson1.git"
+  },
+  "keywords": [
+    "akash"
+  ],
+  "author": "akash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akashdeep073/Comp308-W2018-Lesson1/issues"
+  },
+  "homepage": "https://github.com/Akashdeep073/Comp308-W2018-Lesson1#readme"
+}
