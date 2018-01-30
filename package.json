@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/Akashdeep073/Comp308-W2018-Lesson1/issues"
   },
-  "homepage": "https://github.com/Akashdeep073/Comp308-W2018-Lesson1#readme"
+  "homepage": "https://github.com/Akashdeep073/Comp308-W2018-Lesson1#readme",
+  "dependencies": {
+    "connect": "^3.6.5",
+    "nodemon": "^1.14.11"
+  }
 }
